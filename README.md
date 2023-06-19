@@ -1,0 +1,39 @@
+
+# SkyWatch
+
+An Android Weather App
+
+## Features
+
+- Accurate Weather 
+- Available offline
+- Real time Weather updates
+
+
+## Screenshots
+
+<img src="https://github.com/pushkarshinalkar/Funbayy-android/assets/126596736/26c74504-21dc-4865-b198-af933108050c.png" width=50% height=50%>
+
+<img src="https://github.com/pushkarshinalkar/Funbayy-android/assets/126596736/82c15d6d-c7ba-4594-8508-1dda4ea7548c.png" width=50% height=50%>
+
+## Tech Stack
+
+**Client:** XML, Kotlin, MVVM Design pattern
+
+**Server:** Retrofit, OpenWeatherApi
+
+**Database:** SQLite
+
+
+## Run Locally
+
+Clone the project
+
+File > New > Project from Version Control
+
+Paste the link
+
+```bash
+  git clone https://link-to-project
+
+
