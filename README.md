@@ -12,9 +12,9 @@ An Android Weather App
 
 ## Screenshots
 
-<img src="https://github.com/pushkarshinalkar/Funbayy-android/assets/126596736/26c74504-21dc-4865-b198-af933108050c.png" width=50% height=50%>
+<img src="https://github.com/pushkarshinalkar/Funbayy-android/assets/126596736/26c74504-21dc-4865-b198-af933108050c.png" width=20% height=20%>
 
-<img src="https://github.com/pushkarshinalkar/Funbayy-android/assets/126596736/82c15d6d-c7ba-4594-8508-1dda4ea7548c.png" width=50% height=50%>
+<img src="https://github.com/pushkarshinalkar/Funbayy-android/assets/126596736/82c15d6d-c7ba-4594-8508-1dda4ea7548c.png" width=20% height=20%>
 
 ## Tech Stack
 
