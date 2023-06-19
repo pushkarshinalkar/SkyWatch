@@ -34,7 +34,7 @@ File > New > Project from Version Control
 Paste the below link
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/pushkarshinalkar/SkyWatch.git
 ```
 Just replace the API key and run the app.
 
